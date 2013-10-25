@@ -1,0 +1,32 @@
+body{
+	background-image: url(background_image.jpg);
+}
+#menu{
+	position: absolute;
+	top: 60px;
+	left: 60px;
+}
+#menu li{
+	display: inline;
+	margin-right: 40px;
+	padding: 0;
+}
+#menu a{
+	font-size: 24pt;
+	color: #90EE90;
+	text-decoration: none;
+}
+#menu a:hover{
+	color: #00FF00;
+}
+#bodyFont{
+	font-family: Helvetica;
+	color: white;
+	font-size: 14pt;
+}
+#bodyFont a{
+	color: white;
+}
+#bodyFont a:hover{
+	color: #00FF00;
+}
